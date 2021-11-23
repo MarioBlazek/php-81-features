@@ -1,3 +1,3 @@
-# Enumerations
+# Fibers
 
-[PHP RFC: Enumerations](https://wiki.php.net/rfc/enumerations)
+[PHP RFC: Fibers](https://wiki.php.net/rfc/fibers)
