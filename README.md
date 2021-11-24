@@ -17,7 +17,7 @@ Welcome to this repository which showcases some of the interesting features of P
 
 ## Slides
 
-Slides can be downloaded [here](*.pdf).
+Slides can be downloaded [here](PHP_8.1.pdf).
 
 ### PHP 8.1 environment
 
