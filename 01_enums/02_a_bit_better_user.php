@@ -48,7 +48,7 @@ class Role
     }
 }
 
-printf("Pero's role: ");
+printf("Admin role: ");
 var_dump(Role::ADMIN);
 
 $adminRole = new Role(Role::ADMIN);

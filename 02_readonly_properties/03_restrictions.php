@@ -52,3 +52,4 @@ class ImprovedUser
 // things to notice
 // no unset
 // no covariance, only invariance
+// public readonly int|float $prop; -> public readonly int $prop;

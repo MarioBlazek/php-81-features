@@ -20,15 +20,15 @@ $result = ['a' => 0, ...$firstArray, ...$secondArray];
 var_dump($result);
 var_dump(array_merge(['a' => 0], $firstArray, $secondArray));
 
-$array_unpack = [
+$arrayUnpack = [
     ...['a' => 'foo'],
     ...['b' => 'bar'],
     ...['c' => 'baz']
 ];
-$array_merge = array_merge(
+$arrayMerge = array_merge(
     ['a' => 'foo'],
     ['b' => 'bar'],
     ['c' => 'baz'],
 );
 
-$array_unpack === $array_merge; // true
+var_dump($arrayUnpack === $arrayMerge);
